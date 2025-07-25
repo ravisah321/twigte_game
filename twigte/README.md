@@ -10,7 +10,7 @@ Whether you're competing against a friend or just testing your reflexes, Twigte 
 
 ## 🖼️ Game Preview
 
-![Twigte Gameplay](.src/assets/gameImage.png)
+![Twigte Gameplay](src/assets/gameImage.png)
 
 ## ⚙️ Technology Stack
 
