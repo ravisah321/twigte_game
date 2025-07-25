@@ -9,9 +9,9 @@ const Board = () => {
   let [isTurn, setisTurn] = useState(true);
   let [countO, setcountO] = useState(9);
   let [countX, setcountX] = useState(9);
-  let [stateA, setstateA] = useState(Array(81).fill(null));
-  let [stateB, setstateB] = useState(Array(81).fill(null));
-  let [stateC, setstateC] = useState(Array(81).fill(null));
+  // let [stateA, setstateA] = useState(Array(81).fill(null));
+  // let [stateB, setstateB] = useState(Array(81).fill(null));
+  // let [stateC, setstateC] = useState(Array(81).fill(null));
   let [curX, setcurX] = useState(0);
   let [curO, setcurO] = useState(0);
   let [isWinner, setIsWinner] = useState(false);
