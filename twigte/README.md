@@ -1,12 +1,36 @@
-# React + Vite
+# Twigte
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Twigte** is a fast-paced, two-player competitive browser game built with React, Vite, and JavaScript. Designed for head-to-head action, players face off in real-time right in their web browser—no installation or setup required.
 
-Currently, two official plugins are available:
+## 🎮 Gameplay
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Twigte is a **two-player** game where each player interacts with a shared game box visible in the browser. The interface dynamically shows the current game state and player statuses, so it's easy to jump in and understand what to do next.
 
-## Expanding the ESLint configuration
+Whether you're competing against a friend or just testing your reflexes, Twigte delivers quick and fun gameplay without any learning curve.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖼️ Game Preview
+
+![Twigte Gameplay](./assets/gameImage.png)
+
+## ⚙️ Technology Stack
+
+- **React** – UI components and game logic
+- **Vite** – Lightning-fast development and build tool
+- **JavaScript** – Core game logic and interactivity
+
+## 🚀 Play the Game
+
+No installation is needed! Just open the game in your web browser and start playing.
+
+> ✅ Works on modern desktop browsers  
+> ✅ No command-line setup or configuration required
+
+## 📦 Installation (Optional for Developers)
+
+If you'd like to run the game locally or contribute to development:
+
+```bash
+git clone https://github.com/ravisah321/twigte_game.git
+cd twigte_game
+npm install
+npm run dev
