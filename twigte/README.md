@@ -8,9 +8,8 @@ Twigte is a **two-player** game where each player interacts with a shared game b
 
 Whether you're competing against a friend or just testing your reflexes, Twigte delivers quick and fun gameplay without any learning curve.
 
-## 🖼️ Game Preview
 
-![Twigte Gameplay](assets/gameImage.png)
+
 
 ## ⚙️ Technology Stack
 
